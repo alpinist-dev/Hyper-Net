@@ -1,89 +1,62 @@
-<div>
-  <h1>Click on the GitHub icon below to view the project online.</h1>
+<div align="center">
+  <h1>💻 HyperNet Dashboard</h1>
+  <p>Manage internet packages, user profiles, and transactions — modern, interactive, and responsive ⚡</p>
   <a href="https://hamiparsa.github.io/Hyper-Net/">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View_Live_Project-1DB954?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
-# HyperNet Dashboard 💻⚡
+---
 
-HyperNet is a modern, responsive, and interactive dashboard for managing internet packages, user profiles, and transaction histories. Users can view their active packages, transaction history, and profile information in a clean and professional interface.
+## 📝 About the Project
+
+**HyperNet Dashboard** is a responsive, interactive dashboard for managing internet packages, user profiles, and transaction history.  
+Built with **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**, it demonstrates modern front-end practices for dashboards with smooth transitions and professional UI.
 
 ---
 
-## Features:
+## ⚡ Features
 
 <ul>
-  <li>
-    Responsive sidebar with animated hamburger menu for mobile
-  </li>
-  <li>
-    Dashboard sections: Packages, Transactions, Profile
-  </li>
-  <li>
-    Interactive package cards with hover effects
-  </li>
-  <li>
-    Transaction table with responsive scroll and hover highlights
-  </li>
-  <li>
-    Profile section with user information and active package details
-  </li>
-  <li>
-    Smooth transitions and animations with Tailwind and Framer Motion
-  </li>
+  <li>📂 <b>Responsive Sidebar</b> — Animated hamburger menu for mobile</li>
+  <li>📊 <b>Dashboard Sections</b> — Packages, Transactions, Profile</li>
+  <li>🃏 <b>Interactive Package Cards</b> — Hover effects for detailed info</li>
+  <li>📑 <b>Transaction Table</b> — Responsive scrolling and hover highlights</li>
+  <li>👤 <b>Profile Section</b> — View user info and active package details</li>
+  <li>✨ <b>Smooth Animations</b> — Using Tailwind CSS and Framer Motion</li>
 </ul>
 
 ---
 
-## Technologies Used:
+## 🧰 Tech Stack
 
-<ul>
-  <li>
-    React for building UI components
-    <img width='20px' src='https://skillicons.dev/icons?i=react'>
-  </li>
-  <li>
-    Next.js for routing and client-side navigation
-    <img width='20px' src='https://skillicons.dev/icons?i=next'>
-  </li>
-  <li>
-    TypeScript for type safety
-    <img width='20px' src='https://skillicons.dev/icons?i=typescript'>
-  </li>
-  <li>
-    Tailwind CSS for fast and responsive styling
-    <img width='20px' src='https://skillicons.dev/icons?i=tailwindcss'>
-  </li>
-  <li>
-    Framer Motion for smooth animations
-    <img width='20px' src='https://skillicons.dev/icons?i=framer'>
-  </li>
-</ul>
+| Technology | Purpose |
+|------------|---------|
+| ⚛️ **React** | Building interactive UI components |
+| 🧭 **Next.js** | Routing and client-side navigation |
+| 🟦 **TypeScript** | Type safety and code quality |
+| 🎨 **Tailwind CSS** | Fast, responsive, modern styling |
+| 🪄 **Framer Motion** | Smooth transitions and animations |
 
 ---
 
-## Description:
+## 💡 Description
 
-This project demonstrates a modern HyperNet Dashboard with interactive components, responsive design, and smooth animations. Users can:
+This project showcases a fully functional HyperNet Dashboard with:
 
-- Explore available packages and prices
-- Check detailed transaction history
-- View their profile information including active package, speed, and expiry date
-- Interact with a responsive sidebar that slides in/out on mobile
-- Enjoy hover and transition effects on cards and buttons
+- Viewing and managing available packages  
+- Detailed transaction history  
+- Responsive and animated sidebar navigation  
+- Professional profile management  
+- Hover effects and smooth transitions throughout the dashboard  
 
-The project showcases advanced front-end techniques including:
-
-- Animated hamburger menu and responsive sidebar
-- Interactive package cards with hover effects
-- Responsive design for desktop, tablet, and mobile
-- Professional profile section with user data
-- Smooth transitions using Tailwind CSS and Framer Motion
+Perfect for developers practicing **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, and **Framer Motion** in a real-world interactive dashboard project.
 
 ---
 
-<h1 align="center">Project Picture 🖼️</h1>
+## 🖼️ Project Preview
+
+<h3 align="center">✨ Screenshots ✨</h3>
 
 <div align="center">
   <img src="/pic1.png" width="700px" />
@@ -97,4 +70,26 @@ The project showcases advanced front-end techniques including:
   <img src="/pic3.png" width="700px" />
   <br/><br/>
   <img src="/pic4.png" width="700px" />
+</div>
+
+---
+
+## 🚀 Future Improvements
+
+- 🌙 Add dark/light theme toggle  
+- 📈 Include graphs for package usage statistics  
+- 🔔 Real-time notifications for transactions  
+- 📱 Enhance mobile interactivity and UX animations  
+
+---
+
+## 👨‍💻 Author
+
+**Developed by:** [Hami Parsa](https://github.com/hamiparsa)  
+💬 Front-End Developer | Focused on modern dashboards, animations, and interactive UI  
+
+---
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,framer" />
 </div>
